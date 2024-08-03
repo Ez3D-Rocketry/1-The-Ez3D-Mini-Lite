@@ -18,7 +18,8 @@
     - This tube serves as an Insulator between the motor and Fin Can
     - Use of Insulator helps reduce Fin Can heat shrink after each launch
   
-   ![IMG_8505](https://github.com/user-attachments/assets/79d75c4e-0f98-4b88-a1b9-2c68cafd9151)
+
+![IMG_8625](https://github.com/user-attachments/assets/fe8f2134-e8cd-49a6-88ff-c7b9b6e564cd)
 
 
 # Assembly: 
