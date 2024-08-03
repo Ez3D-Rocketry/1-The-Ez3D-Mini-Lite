@@ -14,7 +14,7 @@
 6. Three (3) feet of Kevlar string for Recovery Harness
    - Flight tested on 9KM DWLIFE Black Braided Kevlar Cord (1.3mm, 300 lb) but others may work
 8. Twelve (12) inches of streamer (Optional)
-9. Two (2) inches of BT-5 type body tube (13mm) (Optional)
+9. 1 <sup>3</sup>/<sub>8</sub> inches of BT-5 type body tube (13mm) (Optional)
     - This tube serves as an Insulator between the motor and Fin Can
     - Use of Insulator helps reduce Fin Can heat shrink after each launch
   
@@ -34,6 +34,9 @@
 5. Tie loose end of Recovery Harness to Nose Cone
 6. Tie streamer to Recovery Hanress near top of Nose Cone
 
+![IMG_8624](https://github.com/user-attachments/assets/bd806d70-fc47-4dba-9640-ca845efa31e0)
+
+
 
 # Launch Preperation:
 1. Insert 1 or 2 squares of recovery wadding into Body Tube
@@ -52,7 +55,7 @@
 
 
 
-1/2A3-2T or 4T???   = 170 ft  (Optimum delay = 2.9 s)
+1/2A3-2T or 4T   = 170 ft  (Optimum delay = 2.9 s)
 
 A10-3T               = 370 ft (Optimum delay = 3.5 s)
 
@@ -68,5 +71,6 @@ A3-4T                = 400 ft (Optimum delay = 3.9 s)
 
 ## Entire kit fits in a sandwich ziplock bag!
 
-  ![IMG_8506](https://github.com/user-attachments/assets/e064aa6d-3a94-4101-9a2c-e6e24a4fcbe2)
+ ![IMG_8626](https://github.com/user-attachments/assets/d3d51873-1d64-475d-a681-c421842fb0de)
+
 
