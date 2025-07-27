@@ -3,25 +3,18 @@
 ## Great park flyer that uses mini A motors. Parts tape together. No glue required. 
 
 # Parts List:
-1. Ez3D-1320-4 Fin Can
+1. Ez3D-1320 Fin Can
 2. BT-20 Nose Cone
 3. 13mm Retainer Cap
-   - Print out the multiple sizes (No scaling, +3%, +5%), These account for different printing tolerances and post flight shrinking.
+   - Print out the multiple sizes (No scaling, +3%, +5%), These account for different printing tolerances and post-flight shrinking.
 4. Six (6) inches of BT-20 type body tube
    - A standard 18 inch tube makes three kits
    - 3D printable tube cutting guide included in repository files
 5. Three (3) feet of Kevlar string for Recovery Harness
    - Flight tested on 9KM DWLIFE Black Braided Kevlar Cord (1.3mm, 300 lb) but others may work
 6. Twelve (12) inches of streamer (Optional)
-7. 1 <sup>3</sup>/<sub>8</sub> inches of BT-5 type body tube (13mm) (Optional)
-    - This tube serves as an Insulator between the motor and Fin Can
-    - Use of Insulator helps reduce Fin Can heat shrink after each launch
 8. Tape
 
-
-
-
-![IMG_8628](https://github.com/user-attachments/assets/323f2a44-7885-4da7-a3a7-c39a6e4f6934)
 
 
 # Assembly: 
@@ -47,8 +40,6 @@
 3. Place Nose Cone on top of Body Tube - ensure slightly snug fit
 4. Slide BT-5 insulator into Fin Can before motor (Optional)
 5. Load motor into Fin Can
-    - Motor will fit loosely if BT-5 insulator is not used
-    - Loose fit is not an issue with proper motor retention
 6. Screw Motor Retention Cap onto base of Fin Can
    - Depending on your printer, the larger sizes may fit better
    - After a flight or two, the smaller size may fit better
