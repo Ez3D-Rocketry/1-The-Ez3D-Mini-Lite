@@ -1,6 +1,8 @@
 # The-Ez3D-Mini-Lite
 
-## Great park flyer that uses mini A motors. Parts tape together. No glue required. 
+- Great park flyer that uses mini A motors
+- Parts tape together
+- No glue required
 
 # Parts List:
 1. Ez3D-1320 Fin Can
